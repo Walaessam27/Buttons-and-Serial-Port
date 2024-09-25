@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\serial_2024.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>2374</used>
+      <free>63162</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3968</length>
+      <used>135</used>
+      <free>3833</free>
+    </memory>
+  </executable>
+</project>
